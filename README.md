@@ -6,7 +6,7 @@ A binary search trees (BST) is a container that allows fast lookup, addition and
 Binary search trees keep their items in sorted order, so that lookup and other operations can use the principle of binary search: when looking for a item in a tree (or a place to insert a new item), they traverse the tree from root to leaf, making comparisons to item stored in the nodes of the tree and deciding, on the basis of the comparison, to continue searching in the left or right subtrees.
 
 ### About
-This Project implements a Binary Search Tree in C# and has function for **Traversal, Insertion, Deletion and Search**.
+This Project implements a Binary Search Tree in C# and has functions for **Traversal, Insertion, Deletion and Search**.
 
 ### Example
 
